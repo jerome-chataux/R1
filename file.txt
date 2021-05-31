@@ -1,2 +1,3 @@
 Bonjour les amis
 Nous sommes le 31 Mai 2021
+Je modifie le file.txt sur B1
